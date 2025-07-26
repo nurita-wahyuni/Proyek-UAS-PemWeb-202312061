@@ -92,7 +92,7 @@
 > 📝 **Catatan:** Ganti link `#` di atas dengan URL YouTube dan hosting yang sebenarnya
 
 ### 🎬 **Video Demonstration**
-- **YouTube Link:** [Klik di sini untuk menonton demo aplikasi](#) 
+- **YouTube Link:** [https://youtu.be/GnM_Xjr9hTc](#) 
 - **Duration:** ~10-15 menit
 - **Content:** Penjelasan fitur, demo penggunaan, dan code walkthrough
 
