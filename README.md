@@ -97,7 +97,7 @@
 - **Content:** Penjelasan fitur, demo penggunaan, dan code walkthrough
 
 ### 🌍 **Live Application**
-- **Hosting URL:** [Akses aplikasi live di sini](#)
+- **Hosting URL:** [https://nurita.mangaverse.my.id/](#)
 - **Test Accounts:** Gunakan akun demo yang tersedia
 - **Status:** ✅ Online 24/7
 
