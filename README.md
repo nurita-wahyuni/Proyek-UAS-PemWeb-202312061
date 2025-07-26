@@ -60,14 +60,14 @@
   <table>
     <tr>
       <td align="center">
-        <a href="#" target="_blank">
+        <a href="https://youtu.be/GnM_Xjr9hTc" target="https://youtu.be/GnM_Xjr9hTc">
           <img src="https://img.icons8.com/fluency/64/000000/youtube-play.png" width="64" height="64"/><br/>
           <b>🎥 Video Demo</b><br/>
           <sub>YouTube Presentation</sub>
         </a>
       </td>
       <td align="center">
-        <a href="#" target="_blank">
+        <a href="https://nurita.mangaverse.my.id/" target="https://nurita.mangaverse.my.id/">
           <img src="https://img.icons8.com/fluency/64/000000/domain.png" width="64" height="64"/><br/>
           <b>🌍 Live Demo</b><br/>
           <sub>Hosted Application</sub>
