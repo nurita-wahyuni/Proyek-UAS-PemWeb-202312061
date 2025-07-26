@@ -458,8 +458,8 @@ Name: John Doe
 
 ### 📋 **Quick Links**
 - **📧 Email Support:** nuritawahyuni4@gmail.com
-- **🎬 Video Demo:** [YouTube Channel](#) - Tonton penjelasan lengkap proyek
-- **🌍 Live Application:** [Demo Online](#) - Coba aplikasi secara langsung  
+- **🎬 Video Demo:** https://youtu.be/GnM_Xjr9hTc - Tonton penjelasan lengkap proyek
+- **🌍 Live Application:** [https://nurita.mangaverse.my.id/](#) - Coba aplikasi secara langsung  
 - **📚 Documentation:** Baca dokumentasi lengkap di folder `docs/`
 - **🏛️ Institution:** Sekolah Tinggi Teknologi Bontang
 
