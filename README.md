@@ -92,12 +92,12 @@
 > 📝 **Catatan:** Ganti link `#` di atas dengan URL YouTube dan hosting yang sebenarnya
 
 ### 🎬 **Video Demonstration**
-- **YouTube Link:** [https://youtu.be/GnM_Xjr9hTc](#) 
+- **YouTube Link:** https://youtu.be/GnM_Xjr9hTc 
 - **Duration:** ~10-15 menit
 - **Content:** Penjelasan fitur, demo penggunaan, dan code walkthrough
 
 ### 🌍 **Live Application**
-- **Hosting URL:** [https://nurita.mangaverse.my.id/](#)
+- **Hosting URL:** https://nurita.mangaverse.my.id/
 - **Test Accounts:** Gunakan akun demo yang tersedia
 - **Status:** ✅ Online 24/7
 
@@ -459,7 +459,7 @@ Name: John Doe
 ### 📋 **Quick Links**
 - **📧 Email Support:** nuritawahyuni4@gmail.com
 - **🎬 Video Demo:** https://youtu.be/GnM_Xjr9hTc - Tonton penjelasan lengkap proyek
-- **🌍 Live Application:** [https://nurita.mangaverse.my.id/](#) - Coba aplikasi secara langsung  
+- **🌍 Live Application:** https://nurita.mangaverse.my.id/ - Coba aplikasi secara langsung  
 - **📚 Documentation:** Baca dokumentasi lengkap di folder `docs/`
 - **🏛️ Institution:** Sekolah Tinggi Teknologi Bontang
 
