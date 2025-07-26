@@ -89,8 +89,6 @@
   </table>
 </div>
 
-> 📝 **Catatan:** Ganti link `#` di atas dengan URL YouTube dan hosting yang sebenarnya
-
 ### 🎬 **Video Demonstration**
 - **YouTube Link:** https://youtu.be/GnM_Xjr9hTc 
 - **Duration:** ~10-15 menit
