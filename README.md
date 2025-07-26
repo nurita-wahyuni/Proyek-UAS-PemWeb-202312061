@@ -445,7 +445,7 @@ Name: John Doe
       <td align="center">
         <img src="https://img.icons8.com/fluency/32/000000/domain.png" width="32" height="32"/><br/>
         <b>🌐 Live Demo</b><br/>
-        <a href="#" target="_blank">Try Application</a>
+        <a href="https://nurita.mangaverse.my.id/" target="https://nurita.mangaverse.my.id/">Try Application</a>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/fluency/32/000000/school.png" width="32" height="32"/><br/>
