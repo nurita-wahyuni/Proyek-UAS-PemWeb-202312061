@@ -440,7 +440,7 @@ Name: John Doe
       <td align="center">
         <img src="https://img.icons8.com/fluency/32/000000/youtube-play.png" width="32" height="32"/><br/>
         <b>🎥 YouTube</b><br/>
-        <a href="#" target="_blank">Demo Video</a>
+        <a href="https://youtu.be/GnM_Xjr9hTc" target="https://youtu.be/GnM_Xjr9hTc">Demo Video</a>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/fluency/32/000000/domain.png" width="32" height="32"/><br/>
