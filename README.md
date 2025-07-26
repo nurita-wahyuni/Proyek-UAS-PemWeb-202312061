@@ -521,10 +521,10 @@ Hanya untuk keperluan pembelajaran dan evaluasi akademik.
   
   ### 🔗 **Quick Access**
   
-  <a href="#" target="_blank">
+  <a href="https://youtu.be/GnM_Xjr9hTc" target="https://youtu.be/GnM_Xjr9hTc">
     <img src="https://img.shields.io/badge/🎥%20YouTube%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://nurita.mangaverse.my.id/" target="https://nurita.mangaverse.my.id/">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
   <a href="mailto:nuritawahyuni4@gmail.com">
